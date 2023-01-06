@@ -3,9 +3,9 @@
 - PHP backend developer.
 - I work on Linux Ubuntu, raise projects via Docker.
 - Сompletely ready to work remotely.
-- Stack : PHP, SQL, Docker, PHPUnit, Laravel, Bitrix, Webpack, Nuxt/Vue.js, HTML/CSS
-- Email: pankovalaxndr@gmail.com
-- Telegram: [pankovalxndr](https://t.me/pankovalxndr)
+- Stack : PHP, SQL, Docker, PHPUnit, Laravel, Bitrix, Webpack, Nuxt/Vue.js, HTML/CSS.
+- Email: [pankovalxndr@gmail.com](mailto:pankovalxndr@gmail.com)
+- Telegram: [@pankovalxndr](https://t.me/pankovalxndr)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats-pankovalxndr.vercel.app/api?username=pankovalxndr&show_icons=true&theme=transparent" />
